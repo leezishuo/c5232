@@ -1,7 +1,7 @@
 package pratice;
 
 public enum Gender {
-	Male("ÄÐ"),FeMale("Å®");
+	Male("ç”·"),FeMale("å¥³");
 	
 	Gender(){}
 	
